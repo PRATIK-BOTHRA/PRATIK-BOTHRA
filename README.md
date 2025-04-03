@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRATIK-BOTHRA
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  at white hat jr
+- 🌱 I’m currently learner soon be developer
 - 💞️ I’m looking to collaborate on  java,php,ruby,python,javascript,html,css,scss and many more
 - 📫 How to reach me ...
 
