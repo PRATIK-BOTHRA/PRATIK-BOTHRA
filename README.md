@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRATIK-BOTHRA
 - 👀 I’m interested in coding
 - 🌱 I’m currently learner soon be developer
-- 💞️ I’m looking to collaborate on  java,php,ruby,python,javascript,html,css,scss and many more
+- 💞️ I’m looking to collaborate on  java,python,javascript,html,css,react and many more
 - 📫 How to reach me ...
 
 <!---
